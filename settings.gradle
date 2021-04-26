@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "AndroidUsbDebugTile"
+rootProject.name = "UsbDebugButton"

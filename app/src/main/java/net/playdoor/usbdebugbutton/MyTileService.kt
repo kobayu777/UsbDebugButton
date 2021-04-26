@@ -1,4 +1,4 @@
-package net.playdoor.androidusbdebugtile
+package net.playdoor.usbdebugbutton
 
 import android.provider.Settings
 import android.service.quicksettings.Tile

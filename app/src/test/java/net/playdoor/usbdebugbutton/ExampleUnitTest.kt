@@ -1,4 +1,4 @@
-package net.playdoor.androidusbdebugtile
+package net.playdoor.usbdebugbutton
 
 import org.junit.Test
 

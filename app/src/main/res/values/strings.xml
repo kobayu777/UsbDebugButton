@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">AndroidUsbDebugTile</string>
+    <string name="app_name">UsbDebugButton</string>
     <string name="tile_name">USB DEBUG</string>
 </resources>
